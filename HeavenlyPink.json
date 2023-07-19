@@ -1,7 +1,7 @@
 {
 	"name": "HeavenlyPink",
 	"author": "Gato Noob#2572",
-	"version": "1.50",
+	"version": "1.75",
 	"description": "Cute Pink Colour",
 	"authors": [ 
 		{
@@ -31,12 +31,12 @@
 		"CHANNELS_DEFAULT": ["#9F2B68", "#9F2B68"],
 		"HEADER_PRIMARY": ["#F88379", "#9F2B68"],
 		"HEADER_SECONDARY": ["#F88379", "#9F2B68"],
-		"INTERACTIVE_ACTIVE": ["#ff82b2", "#9F2B68"],
-		"INTERACTIVE_MUTED": ["#ff82b2", "#9F2B68"],
-		"INTERACTIVE_NORMAL": ["#ff82b2", "#9F2B68"],
-		"TEXT_LINK": ["#DA70D6", "#9F2B68"],
-		"TEXT_MUTED": ["#C9A9A6", "#9F2B68"],
-		"TEXT_NORMAL": ["#FFB6C1", "#9F2B68"]
+		"INTERACTIVE_ACTIVE": ["#e986eb", "#9F2B68"],
+		"INTERACTIVE_MUTED": ["#e986eb", "#9F2B68"],
+		"INTERACTIVE_NORMAL": ["#e986eb", "#9F2B68"],
+		"TEXT_LINK": ["#eb86c2", "#e986eb"],
+		"TEXT_MUTED": ["#eb8686", "#e986eb"],
+		"TEXT_NORMAL": ["#eb86c2", "#e986eb"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#FFFFFF",
